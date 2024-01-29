@@ -1,5 +1,5 @@
 # Danh_gia_hoc_phan
-<ol style="font-size: 20px; color: blue; text-decoration: none">
+<ol>
   <li>Bước 1: Khởi động máy tính</li>
   <li>Bước 2: Bắt wifi</li>
   <li>Bước 3: Mở trình duyệt</li>
@@ -17,6 +17,7 @@
     Trường hợp đánh giá sự cần thiết thì sao chép code ở tệp
     Danh_Gia_Su_Can_Thiet.js rồi dán vào console -> enter
   </li>
+  <li>Sau khi code chạy xong tải lại trang để xem kết quả</li>
   <li>
     Ở bước dán code vào console mà hắn báo lỗi allow pasting hay paste chi đó
     thì gõ vào console "allow pasting" ê "allow paste" (không nhớ cái mô).
