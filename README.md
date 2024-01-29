@@ -1,5 +1,5 @@
 # Danh_gia_hoc_phan
-<ol>
+<ol style="font-size: 20px; color: blue; text-decoration: none">
   <li>Bước 1: Khởi động máy tính</li>
   <li>Bước 2: Bắt wifi</li>
   <li>Bước 3: Mở trình duyệt</li>
@@ -22,4 +22,5 @@
     thì gõ vào console "allow pasting" ê "allow paste" (không nhớ cái mô).
   </li>
 </ol>
+
 
