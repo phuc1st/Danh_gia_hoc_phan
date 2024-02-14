@@ -61,7 +61,6 @@ function sendFormData() {
         if (!response.ok) {
           console.log(`Học phần ${i + 1}/${links.length} thất bại!`);
         } else console.log(`Học phần ${i + 1}/${links.length} thành công!`);
-        resolve();
       })
       .catch((error) => {
         console.error(error.message);
